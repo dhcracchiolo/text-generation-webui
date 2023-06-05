@@ -84,7 +84,7 @@ transformers @ git+https://github.com/huggingface/transformers@e45e756d22206ca8f
 typing_extensions==4.6.3
 tzdata==2023.3
 uc-micro-py==1.0.2
-urllib3==2.0.2
+urllib3==1.25.10
 uvicorn==0.22.0
 websockets==11.0.3
 xxhash==3.2.0
